@@ -6,5 +6,4 @@ fn main() {
     println!("Result value is {} ",result);
     println!("Age is {} ",age);
     println!("sum is {} ",sum);
-
  }
